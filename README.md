@@ -1,6 +1,6 @@
 👨‍💻 About Me
 
-I'm a third-year IT student at Sastra University, Thanjavur, with a passion for technology and a strong foundation in C++, Java, and Python. My journey into the world of IT began with top-notch academic performance, achieving a perfect 10 CGPA in my 10th standard and an impressive 98.5% in my intermediate studies at Sri Chaitanya Educational Institutions. These academic milestones showcase my commitment to excellence and my ability to balance studies with my aspirations.
+I'm a final year IT student at Sastra University, Thanjavur, with a passion for technology and a strong foundation in C++, Java, and Python. My journey into the world of IT began with top-notch academic performance, achieving a perfect 10 CGPA in my 10th standard and an impressive 98.5% in my intermediate studies at Sri Chaitanya Educational Institutions. These academic milestones showcase my commitment to excellence and my ability to balance studies with my aspirations.
 
 🚀 Driven by Curiosity
 
